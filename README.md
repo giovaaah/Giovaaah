@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## _ 🇮🇹 ABOUT ME_
+## _ABOUT ME_
 
 Hi! My name is Giovanni, i'm 15 years old based in Italy (Milan) and i like coding
 
