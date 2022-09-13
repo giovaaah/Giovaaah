@@ -7,7 +7,7 @@ Hi! My name is Giovanni, i'm 15 years old based in Italy (Milan) and i like codi
 
 
 
-## - 🔭 _I'M CURRENTLY WORKING ON_
+##  🔭 _I'M CURRENTLY WORKING ON_
 
 i'm currently working on my website and others special(not really special) spigot plugins!
  
