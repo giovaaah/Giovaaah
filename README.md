@@ -20,6 +20,13 @@ i'm currently learning:
 -_JAVASCRIPT & FRAMEWORKS( 30%);_
 
 
+- ## 💎 _IDE's & TEXT EDITOR's:_ 
+-INTELLIJ IDEA
+-WebStorm
+-Visual Studio
+-Visual Studio code
+
+
 
 - ## _📫 HOW TO REACH ME:
   
