@@ -30,7 +30,7 @@ _Java (20%);_
 
 - ## _📫 HOW TO REACH ME:_
   
-  telegram: @skiddando 
+  telegram: @skiddando
   discord: was.#3644
   twitter: @padding16px
 
