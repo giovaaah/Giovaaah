@@ -14,14 +14,14 @@ i'm currently working on my website and others special(not really special) spigo
 - ## 🌱 _I'M CURRENTLY LEARN
 
 i'm currently learning:
--_Java (20%);_
+_Java (20%);_
 -_HTML (60%);_
 -_CSS (60%);_
 -_JAVASCRIPT & FRAMEWORKS( 30%);_
 
 
 - ## 💎 _IDE's & TEXT EDITOR's:_ 
--INTELLIJ IDEA
+ INTELLIJ IDEA
 -WebStorm
 -Visual Studio
 -Visual Studio code
