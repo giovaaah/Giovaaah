@@ -19,8 +19,7 @@ Hello everyone! my name is Giovanni, i'm a 15 years old guy from Italy and i lov
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
-Debian	Debian	![Debian](https://img.shields.io/badge/Debian-)
+
 
 # 📊 GitHub _Stats:_
 ![](https://github-readme-stats.vercel.app/api?username=Giovaaah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
